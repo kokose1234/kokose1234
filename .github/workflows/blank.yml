@@ -23,7 +23,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_ignored: Batchfile
+          plugin_languages_ignored: Batchfile,TSQL
           plugin_languages_limit: 8
           plugin_languages_skipped: Elsie,OrionAlpha,Fantasia,SGProj,Liatris,TecT,Master1029,V51,Benitia,220,GateOnline,BusanStory,BusanStory-256,snowsniffer,MaengCarry/Epony,elmang-web / rucy_web,ssay8888/v329.3,syonkr/324,
           plugin_languages_threshold: 0%
