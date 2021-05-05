@@ -1,0 +1,35 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: kokose1234
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Seoul
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: Batchfile
+          plugin_languages_limit: 8
+          plugin_languages_skipped: Elsie,OrionAlpha,Fantasia,SGProj,Liatris,TecT,Master1029,V51,Benitia,220,GateOnline,BusanStory,BusanStory-256,snowsniffer,MaengCarry/Epony,elmang-web / rucy_web,ssay8888/v329.3,syonkr/324,
+          plugin_languages_threshold: 0%
+          plugin_music: yes
+          plugin_music_provider: spotify # Use Spotify as provider
+          plugin_music_mode: recent      # Set plugin mode
+          plugin_music_limit: 4          # Limit to 4 entries
+          plugin_music_played_at: yes    # Show timestamp (for spotify only)
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
