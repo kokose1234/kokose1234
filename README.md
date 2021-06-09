@@ -11,7 +11,7 @@
  > 
 > 📦 2.1 MB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 58 Public Repositories 
  > 
