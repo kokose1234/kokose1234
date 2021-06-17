@@ -1437,7 +1437,7 @@
                                 <div class="infos">
                                     <div class="name">Will You Grow Old With Me</div>
                                     <div class="artist">Built By Titan</div>
-                                    <div class="played-at">Played at 10:12 on 17/06/2021</div>
+                                    <div class="played-at">Played at 11:13 on 17/06/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1470,7 +1470,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 17 Jun 2021 10:24:33 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 17 Jun 2021 11:16:47 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
