@@ -1437,7 +1437,7 @@
                                 <div class="infos">
                                     <div class="name">Tropic Love</div>
                                     <div class="artist">Diviners</div>
-                                    <div class="played-at">Played at 13:58 on 29/06/2021</div>
+                                    <div class="played-at">Played at 14:18 on 29/06/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1470,7 +1470,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 29 Jun 2021 14:02:17 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 29 Jun 2021 15:02:29 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
