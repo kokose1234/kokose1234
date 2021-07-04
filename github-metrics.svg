@@ -1437,7 +1437,7 @@
                                 <div class="infos">
                                     <div class="name">tears</div>
                                     <div class="artist">SEKAI NO OWARI</div>
-                                    <div class="played-at">Played at 19:03 on 04/07/2021</div>
+                                    <div class="played-at">Played at 20:01 on 04/07/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1470,7 +1470,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sun, 04 Jul 2021 19:05:06 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sun, 04 Jul 2021 20:05:26 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
