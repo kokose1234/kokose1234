@@ -1437,7 +1437,7 @@
                                 <div class="infos">
                                     <div class="name">Gone</div>
                                     <div class="artist">End of the World</div>
-                                    <div class="played-at">Played at 16:08 on 16/07/2021</div>
+                                    <div class="played-at">Played at 16:11 on 16/07/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1470,7 +1470,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 16 Jul 2021 17:05:10 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 16 Jul 2021 18:05:19 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
