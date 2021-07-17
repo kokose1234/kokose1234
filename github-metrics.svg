@@ -1437,7 +1437,7 @@
                                 <div class="infos">
                                     <div class="name">Higher Power</div>
                                     <div class="artist">Coldplay</div>
-                                    <div class="played-at">Played at 22:03 on 17/07/2021</div>
+                                    <div class="played-at">Played at 22:15 on 17/07/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1470,7 +1470,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 17 Jul 2021 22:09:10 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 17 Jul 2021 23:05:30 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
