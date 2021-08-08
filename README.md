@@ -68,7 +68,7 @@ Windows                  5 hrs 4 mins        ███████████�
 ```
 
 
- Last Updated on 07/08/2021
+ Last Updated on 08/08/2021
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
