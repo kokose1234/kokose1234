@@ -1544,7 +1544,7 @@
                                 <div class="infos">
                                     <div class="name">時間列車</div>
                                     <div class="artist">supercell</div>
-                                    <div class="played-at">Played at 21:22 on 10/09/2021</div>
+                                    <div class="played-at">Played at 23:01 on 10/09/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1577,7 +1577,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10/09/2021, 22:06 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 10/09/2021, 23:02 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
