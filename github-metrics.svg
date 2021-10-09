@@ -1615,7 +1615,7 @@
                                 <div class="infos">
                                     <div class="name">Vex, the Gloomist</div>
                                     <div class="artist">League of Legends</div>
-                                    <div class="played-at">Played at 21:02 on 09/10/2021</div>
+                                    <div class="played-at">Played at 21:09 on 09/10/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1640,7 +1640,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 09/10/2021, 21:02 (timezone Asia/Seoul) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 09/10/2021, 22:05 (timezone Asia/Seoul) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
