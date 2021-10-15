@@ -1615,7 +1615,7 @@
                                 <div class="infos">
                                     <div class="name">Over It</div>
                                     <div class="artist">pilton</div>
-                                    <div class="played-at">Played at 13:34 on 15/10/2021</div>
+                                    <div class="played-at">Played at 13:37 on 15/10/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1648,7 +1648,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15/10/2021, 15:02 (timezone Asia/Seoul) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 15/10/2021, 16:02 (timezone Asia/Seoul) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
