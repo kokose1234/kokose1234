@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -29,12 +29,12 @@
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
+Monday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
 Tuesday      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
 Wednesday    134 commits    ███████░░░░░░░░░░░░░░░░░░   27.97% 
 Thursday     44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
 Friday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-Saturday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
+Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.6% 
 Sunday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41%
 
 ```
