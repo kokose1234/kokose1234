@@ -1676,7 +1676,7 @@
                                 <div class="infos">
                                     <div class="name">Phoenix</div>
                                     <div class="artist">Netrum</div>
-                                    <div class="played-at">Played at 01:04:47 on 27 Nov 2021</div>
+                                    <div class="played-at">Played at 02:03:32 on 27 Nov 2021</div>
                                 </div>
                             </div>
                         </div>
@@ -1685,7 +1685,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2021, 01:08:21 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 27 Nov 2021, 02:06:45 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
