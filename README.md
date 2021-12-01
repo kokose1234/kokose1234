@@ -3,13 +3,15 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2051%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 449 Contributions in the Year 2021
  > 
-> 📦 3.4 MB Used in GitHub's Storage 
+> 📦 3.5 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
