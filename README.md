@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Million%20lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 🏆 464 Contributions in the Year 2021
  > 
-> 📦 3.4 MB Used in GitHub's Storage 
+> 📦 3.5 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
