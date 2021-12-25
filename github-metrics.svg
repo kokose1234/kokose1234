@@ -1676,7 +1676,7 @@
                                 <div class="infos">
                                     <div class="name">The Mandalorian</div>
                                     <div class="artist">Ludwig Goransson</div>
-                                    <div class="played-at">Played at 12:54:29 on 25 Dec 2021</div>
+                                    <div class="played-at">Played at 13:30:41 on 25 Dec 2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1709,7 +1709,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Dec 2021, 13:02:33 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 25 Dec 2021, 14:03:14 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
