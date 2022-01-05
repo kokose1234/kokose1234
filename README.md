@@ -3,6 +3,8 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2018%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -61,8 +63,7 @@ VS Code                  0 secs              ░░░░░░░░░░░�
 ArenaBattle              43 mins             ████████████████████░░░░░   82.71% 
 JirumBot                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
 Vex                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Harepacker-resurrected   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
 Windows                  52 mins             █████████████████████████   100.0%
