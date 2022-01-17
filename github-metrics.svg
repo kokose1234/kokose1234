@@ -357,7 +357,7 @@
                                 <div class="infos">
                                     <div class="name" style="width: 387">OHAYO MY NIGHT</div>
                                     <div class="artist">D-Hack</div>
-                                    <div class="played-at">Played at 03:55:05 on 17 Jan 2022</div>
+                                    <div class="played-at">Played at 21:42:30 on 17 Jan 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -366,7 +366,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2022, 21:11:28 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 17 Jan 2022, 22:08:56 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
