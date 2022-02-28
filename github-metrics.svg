@@ -358,7 +358,7 @@
                                 <div class="infos">
                                     <div class="name" style="width: 387px">A Sky Full of Stars</div>
                                     <div class="artist">Coldplay</div>
-                                    <div class="played-at">Played at 01:47:42 on 1 Mar 2022</div>
+                                    <div class="played-at">Played at 01:56:31 on 1 Mar 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -391,7 +391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2022, 02:14:51 (timezone Asia/Seoul) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 1 Mar 2022, 02:23:41 (timezone Asia/Seoul) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
