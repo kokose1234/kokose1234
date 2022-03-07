@@ -358,7 +358,7 @@
                                 <div class="infos">
                                     <div class="name" style="width: 387px">A Sky Full of Stars</div>
                                     <div class="artist">Taron Egerton</div>
-                                    <div class="played-at">Played at 17:25:35 on 7 Mar 2022</div>
+                                    <div class="played-at">Played at 17:44:15 on 7 Mar 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -391,7 +391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2022, 19:02:40 (timezone Asia/Seoul) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 7 Mar 2022, 20:02:33 (timezone Asia/Seoul) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
