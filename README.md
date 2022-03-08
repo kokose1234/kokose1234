@@ -15,7 +15,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 65 Private Repositories  
  > 
@@ -73,7 +73,7 @@ Windows                  26 hrs 35 mins      ███████████�
 ```
 
 
- Last Updated on 08/03/2022 07:24:50 UTC
+ Last Updated on 08/03/2022 08:09:09 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
