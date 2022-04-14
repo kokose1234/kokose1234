@@ -358,7 +358,7 @@
                                 <div class="infos">
                                     <div class="name">Crazy Love</div>
                                     <div class="artist">James Stikå</div>
-                                    <div class="played-at">Played at 00:07:17 on 15 Apr 2022</div>
+                                    <div class="played-at">Played at 00:12:13 on 15 Apr 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -391,7 +391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2022, 00:08:49 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 15 Apr 2022, 00:14:16 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
