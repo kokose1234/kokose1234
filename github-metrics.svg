@@ -358,7 +358,7 @@
                                 <div class="infos">
                                     <div class="name">Star Trek Picard Main Title</div>
                                     <div class="artist">Jeff Russo</div>
-                                    <div class="played-at">Played at 21:53:00 on 15 Apr 2022</div>
+                                    <div class="played-at">Played at 21:51:20 on 15 Apr 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -391,7 +391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2022, 01:18:47 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 16 Apr 2022, 01:23:51 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
