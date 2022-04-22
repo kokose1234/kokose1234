@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%205%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/1fb0568f-a3d9-46a5-9ff9-c4f584ba55ee.svg)](https://wakatime.com/@1fb0568f-a3d9-46a5-9ff9-c4f584ba55ee)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
