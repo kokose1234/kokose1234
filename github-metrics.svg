@@ -358,7 +358,7 @@
                                 <div class="infos">
                                     <div class="name">Imagine</div>
                                     <div class="artist">Jim Yosef</div>
-                                    <div class="played-at">Played at 14:11:38 on 28 Apr 2022</div>
+                                    <div class="played-at">Played at 15:59:40 on 28 Apr 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -367,7 +367,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2022, 15:03:15 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 Apr 2022, 16:02:21 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
