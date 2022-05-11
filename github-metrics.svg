@@ -358,7 +358,7 @@
                                 <div class="infos">
                                     <div class="name">Stopped time</div>
                                     <div class="artist">Rinne</div>
-                                    <div class="played-at">Played at 05:11:40 on 12 May 2022</div>
+                                    <div class="played-at">Played at 05:19:08 on 12 May 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -383,7 +383,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2022, 05:13:11 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 12 May 2022, 05:20:45 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
