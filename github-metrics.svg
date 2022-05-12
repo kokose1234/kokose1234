@@ -358,7 +358,7 @@
                                 <div class="infos">
                                     <div class="name">ROCKSTAR - TAK Remix</div>
                                     <div class="artist">TAK</div>
-                                    <div class="played-at">Played at 18:40:48 on 12 May 2022</div>
+                                    <div class="played-at">Played at 21:17:10 on 12 May 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -391,7 +391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2022, 21:14:12 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 12 May 2022, 21:20:01 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
