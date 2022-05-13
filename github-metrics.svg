@@ -358,7 +358,7 @@
                                 <div class="infos">
                                     <div class="name">Sunset (Meg Turney Commission)</div>
                                     <div class="artist">Hyper Potions</div>
-                                    <div class="played-at">Played at 23:08:29 on 13 May 2022</div>
+                                    <div class="played-at">Played at 23:11:04 on 13 May 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -391,7 +391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2022, 23:10:06 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 13 May 2022, 23:12:08 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
