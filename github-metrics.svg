@@ -358,7 +358,7 @@
                                 <div class="infos">
                                     <div class="name">Chasing Stars</div>
                                     <div class="artist">Animal Island</div>
-                                    <div class="played-at">Played at 10:35:15 on 16 May 2022</div>
+                                    <div class="played-at">Played at 10:35:56 on 16 May 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -391,7 +391,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2022, 10:35:43 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 16 May 2022, 10:40:45 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
