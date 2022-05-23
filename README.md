@@ -9,8 +9,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 72 Contributions in the Year 2022
- > 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -71,7 +69,7 @@ Windows                  5 hrs 9 mins        ███████████�
 ```
 
 
- Last Updated on 23/05/2022 19:28:13 UTC
+ Last Updated on 23/05/2022 19:35:04 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
