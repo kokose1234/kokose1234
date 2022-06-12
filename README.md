@@ -7,19 +7,18 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 My GitHub data** 
 
-> 🏆 105 Contributions in the Year 2022
+```text
+🏆 105 contributions in 2022
+
+📦 3.5 MB used in GitHub's storage 
+
+📜 7 Public Repositories 
+
+🔑 33 Private Repositories  
  > 
-> 📦 3.5 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 33 Private Repositories  
- > 
-**I'm a Night 🦉** 
+**I'm a night 🦉** 
 
 ```text
 🌞 Morning    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
@@ -28,7 +27,7 @@
 🌙 Night      95 commits     █████░░░░░░░░░░░░░░░░░░░░   21.35%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm most productive on Monday** 
 
 ```text
 Monday       77 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
@@ -42,7 +41,7 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Seoul
@@ -70,7 +69,7 @@ Windows                  1 hr 31 mins        ███████████�
 ```
 
 
- Last Updated on 12/06/2022 07:35:25 UTC
+ Last Updated on 12/06/2022 08:12:06 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
