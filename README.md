@@ -5,19 +5,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-948%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-940%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 77 Contributions in the Year 2022
  > 
-> 📦 2.9 MB Used in GitHub's Storage 
+> 📦 2.8 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 30 Private Repositories  
+> 🔑 28 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -62,7 +62,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/06/2022 00:53:11 UTC
+ Last Updated on 21/06/2022 01:34:13 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
