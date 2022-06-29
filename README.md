@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-940%20Thousand%20lines%20of%20code-blue)
 
@@ -48,21 +48,26 @@ Sunday       44 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 13 mins        ███████████████████████░░   95.14% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 15 mins        ████████████████████████░   98.27% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MultiFarm                1 hr 15 mins        ████████████████████████░   98.27% 
+scripts                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/06/2022 15:27:16 UTC
+ Last Updated on 29/06/2022 15:52:02 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
