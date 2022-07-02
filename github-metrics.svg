@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">That's Hilarious</div>
                                     <div class="artist">Charlie Puth</div>
-                                    <div class="played-at">Played at 22:15:33 on 2 Jul 2022</div>
+                                    <div class="played-at">Played at 22:20:20 on 2 Jul 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2022, 22:16:42 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 2 Jul 2022, 22:22:45 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
