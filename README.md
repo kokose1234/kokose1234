@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-940%20Thousand%20lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 🏆 82 Contributions in the Year 2022
  > 
-> 📦 3.0 MB Used in GitHub's Storage 
+> 📦 2.9 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -67,7 +67,7 @@ Windows                  2 hrs 58 mins       ███████████�
 ```
 
 
- Last Updated on 05/07/2022 13:52:04 UTC
+ Last Updated on 05/07/2022 15:09:11 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
