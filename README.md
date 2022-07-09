@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-940%20Thousand%20lines%20of%20code-blue)
 
@@ -48,23 +48,23 @@ Sunday       44 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     1 hr 55 mins        █████████████████████░░░░   87.37% 
-XML                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+Java                     1 hr 11 mins        █████████████████████░░░░   86.16% 
+XML                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 🔥 Editors: 
-IntelliJ                 2 hrs 12 mins       █████████████████████████   100.0%
+IntelliJ                 1 hr 22 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-MultiFarm                2 hrs 12 mins       █████████████████████████   100.0%
+MultiFarm                1 hr 22 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.0%
+Windows                  1 hr 22 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/07/2022 15:06:31 UTC
+ Last Updated on 09/07/2022 15:12:53 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
