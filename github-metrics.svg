@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Flashes</div>
                                     <div class="artist">NIVIRO</div>
-                                    <div class="played-at">Played at 19:07:29 on 18 Jul 2022</div>
+                                    <div class="played-at">Played at 00:13:01 on 19 Jul 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -361,7 +361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2022, 11:02:06 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 19 Jul 2022, 11:52:58 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
