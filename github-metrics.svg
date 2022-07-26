@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Your Song Saved My Life - From Sing 2</div>
                                     <div class="artist">U2</div>
-                                    <div class="played-at">Played at 11:02:29 on 26 Jul 2022</div>
+                                    <div class="played-at">Played at 11:05:58 on 26 Jul 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -361,7 +361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 11:05:05 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 11:53:07 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
