@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Out Into Space</div>
                                     <div class="artist">Vicki Vox</div>
-                                    <div class="played-at">Played at 16:01:33 on 16 Aug 2022</div>
+                                    <div class="played-at">Played at 20:00:15 on 16 Aug 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -360,7 +360,7 @@
                                 <div class="infos">
                                     <div class="name">Feel Bad</div>
                                     <div class="artist">A Story Told</div>
-                                    <div class="played-at">Played at 15:58:02 on 16 Aug 2022</div>
+                                    <div class="played-at">Played at 19:56:44 on 16 Aug 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -368,7 +368,7 @@
                                 <div class="infos">
                                     <div class="name">Feel Like Home</div>
                                     <div class="artist">Rival</div>
-                                    <div class="played-at">Played at 15:53:38 on 16 Aug 2022</div>
+                                    <div class="played-at">Played at 19:52:20 on 16 Aug 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -376,7 +376,7 @@
                                 <div class="infos">
                                     <div class="name">Without You (feat. Linney)</div>
                                     <div class="artist">Kastra</div>
-                                    <div class="played-at">Played at 15:49:40 on 16 Aug 2022</div>
+                                    <div class="played-at">Played at 19:48:22 on 16 Aug 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2022, 18:35:13 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 16 Aug 2022, 20:02:42 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
