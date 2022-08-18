@@ -48,13 +48,13 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DalamudUpdaterKR         0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -62,7 +62,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/08/2022 16:08:39 UTC
+ Last Updated on 18/08/2022 16:14:17 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
