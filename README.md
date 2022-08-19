@@ -3,13 +3,13 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-937%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 122 Contributions in the Year 2022
+> 🏆 121 Contributions in the Year 2022
  > 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
@@ -48,21 +48,24 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 1 min          ████████████████████░░░░░   82.27% 
+Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 hr 14 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+potg                     1 hr 14 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 14 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/08/2022 15:06:44 UTC
+ Last Updated on 19/08/2022 15:13:05 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
