@@ -3,13 +3,13 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-937%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 138 Contributions in the Year 2022
+> 🏆 139 Contributions in the Year 2022
  > 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
@@ -48,24 +48,24 @@ Sunday       52 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       1 hr 33 mins        █████████████████████░░░░   83.74% 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+C#                       3 hrs 31 mins       █████████████████████░░░░   86.74% 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
 
 🔥 Editors: 
-Visual Studio            1 hr 51 mins        █████████████████████████   100.0%
+Visual Studio            4 hrs 3 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-potg                     1 hr 51 mins        █████████████████████████   100.0%
+potg                     4 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.0%
+Windows                  4 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/08/2022 15:08:50 UTC
+ Last Updated on 21/08/2022 15:13:30 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
