@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Falling Water</div>
                                     <div class="artist">Forester</div>
-                                    <div class="played-at">Played at 00:07:51 on 27 Aug 2022</div>
+                                    <div class="played-at">Played at 00:17:48 on 27 Aug 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2022, 00:08:52 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 27 Aug 2022, 00:18:45 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
