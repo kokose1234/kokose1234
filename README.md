@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-937%20Thousand%20lines%20of%20code-blue)
 
@@ -48,24 +48,23 @@ Sunday       52 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       6 hrs 19 mins       █████████████████████░░░░   87.11% 
-Other                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+C#                       7 hrs 1 min         █████████████████████░░░░   87.24% 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
 
 🔥 Editors: 
-Visual Studio            7 hrs 16 mins       █████████████████████████   100.0%
+Visual Studio            8 hrs 3 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-potg                     7 hrs 16 mins       █████████████████████████   100.0%
+potg                     8 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 16 mins       █████████████████████████   100.0%
+Windows                  8 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/08/2022 15:07:57 UTC
+ Last Updated on 26/08/2022 15:17:45 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
