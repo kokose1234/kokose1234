@@ -3,13 +3,13 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-937%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 143 Contributions in the Year 2022
+> 🏆 142 Contributions in the Year 2022
  > 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
@@ -48,23 +48,26 @@ Sunday       52 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       7 hrs 1 min         █████████████████████░░░░   87.24% 
-Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
+C#                       6 hrs 37 mins       █████████████████████░░░░   83.72% 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
+C++                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
 
 🔥 Editors: 
-Visual Studio            8 hrs 3 mins        █████████████████████████   100.0%
+Visual Studio            7 hrs 54 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-potg                     8 hrs 3 mins        █████████████████████████   100.0%
+potg                     7 hrs 25 mins       ███████████████████████░░   93.93% 
+JirumBot                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
+EmployeeManager          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
 
 💻 Operating System: 
-Windows                  8 hrs 3 mins        █████████████████████████   100.0%
+Windows                  7 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/08/2022 15:06:17 UTC
+ Last Updated on 27/08/2022 15:12:37 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
