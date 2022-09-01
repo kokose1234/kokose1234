@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Something Right</div>
                                     <div class="artist">Tobu</div>
-                                    <div class="played-at">Played at 17:01:59 on 1 Sept 2022</div>
+                                    <div class="played-at">Played at 17:34:14 on 1 Sept 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2022, 17:28:05 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 1 Sept 2022, 17:35:12 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
