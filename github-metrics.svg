@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">As It Was</div>
                                     <div class="artist">Harry Styles</div>
-                                    <div class="played-at">Played at 15:08:48 on 9 Sept 2022</div>
+                                    <div class="played-at">Played at 15:09:07 on 9 Sept 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -361,7 +361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Sept 2022, 20:07:24 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Sept 2022, 20:14:01 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
