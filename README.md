@@ -3,41 +3,41 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs%2035%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-937%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-901%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 170 Contributions in the Year 2022
  > 
-> 📦 3.1 MB Used in GitHub's Storage 
+> 📦 3.0 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 31 Private Repositories  
+> 🔑 30 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
-🌆 Daytime    95 commits     ██████░░░░░░░░░░░░░░░░░░░   27.22% 
-🌃 Evening    144 commits    ██████████░░░░░░░░░░░░░░░   41.26% 
-🌙 Night      58 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62%
+🌞 Morning    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
+🌆 Daytime    84 commits     ██████░░░░░░░░░░░░░░░░░░░   26.42% 
+🌃 Evening    140 commits    ███████████░░░░░░░░░░░░░░   44.03% 
+🌙 Night      43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-Tuesday      48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
-Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Thursday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
-Friday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
-Saturday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-Sunday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9%
+Monday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
+Tuesday      46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
+Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
+Thursday     54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
+Friday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
+Sunday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35%
 
 ```
 
@@ -72,7 +72,7 @@ Windows                  7 hrs 8 mins        ███████████�
 ```
 
 
- Last Updated on 19/09/2022 01:56:24 UTC
+ Last Updated on 19/09/2022 03:04:00 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
