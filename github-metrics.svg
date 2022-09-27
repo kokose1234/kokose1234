@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">My Way</div>
                                     <div class="artist">Frank Sinatra</div>
-                                    <div class="played-at">Played at 18:11:04 on 27 Sept 2022</div>
+                                    <div class="played-at">Played at 18:20:14 on 27 Sept 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2022, 18:12:51 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 27 Sept 2022, 18:22:02 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
