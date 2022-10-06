@@ -11,13 +11,13 @@
 
 > 🏆 132 Contributions in the Year 2022
  > 
-> 📦 3.1 MB Used in GitHub's Storage 
+> 📦 3.0 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 30 Private Repositories  
+> 🔑 29 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -72,7 +72,7 @@ Windows                  2 hrs 7 mins        ███████████�
 ```
 
 
- Last Updated on 06/10/2022 07:26:12 UTC
+ Last Updated on 06/10/2022 07:31:02 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
