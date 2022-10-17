@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Drown</div>
                                     <div class="artist">milet</div>
-                                    <div class="played-at">Played at 22:39:10 on 17 Oct 2022</div>
+                                    <div class="played-at">Played at 22:46:45 on 17 Oct 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2022, 22:42:47 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Oct 2022, 22:47:58 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
