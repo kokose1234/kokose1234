@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Start a Cult</div>
                                     <div class="artist">River Boy</div>
-                                    <div class="played-at">Played at 19:14:59 on 30 Oct 2022</div>
+                                    <div class="played-at">Played at 21:00:58 on 30 Oct 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -360,7 +360,7 @@
                                 <div class="infos">
                                     <div class="name">Praise the Lamb</div>
                                     <div class="artist">River Boy</div>
-                                    <div class="played-at">Played at 19:10:00 on 30 Oct 2022</div>
+                                    <div class="played-at">Played at 19:21:06 on 30 Oct 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -377,7 +377,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2022, 19:52:32 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 30 Oct 2022, 21:03:03 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
