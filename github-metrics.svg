@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">With You</div>
                                     <div class="artist">OBLVYN</div>
-                                    <div class="played-at">Played at 15:21:32 on 7 Dec 2022</div>
+                                    <div class="played-at">Played at 15:28:26 on 7 Dec 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2022, 15:24:17 (timezone Asia/Seoul) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 7 Dec 2022, 15:28:34 (timezone Asia/Seoul) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
