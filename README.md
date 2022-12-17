@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/kokose1234/kokose1234/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-884%20Thousand%20lines%20of%20code-blue)
 
@@ -68,7 +68,7 @@ Windows                  1 min               ██████░░░░░�
 ```
 
 
- Last Updated on 17/12/2022 15:53:21 UTC
+ Last Updated on 17/12/2022 17:06:42 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokose1234&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
