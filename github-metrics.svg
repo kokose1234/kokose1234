@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">The DJ Is Crying For Help</div>
                                     <div class="artist">AJR</div>
-                                    <div class="played-at">Played at 06:19:31 on 19 Dec 2022</div>
+                                    <div class="played-at">Played at 06:23:08 on 19 Dec 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2022, 06:22:04 (timezone Asia/Seoul) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 19 Dec 2022, 06:26:04 (timezone Asia/Seoul) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
