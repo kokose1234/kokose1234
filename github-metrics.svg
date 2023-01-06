@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Let's Love</div>
                                     <div class="artist">David Guetta</div>
-                                    <div class="played-at">Played at 12:44:18 on 6 Jan 2023</div>
+                                    <div class="played-at">Played at 12:50:11 on 6 Jan 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2023, 12:44:43 (timezone Asia/Seoul) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 6 Jan 2023, 13:02:39 (timezone Asia/Seoul) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
