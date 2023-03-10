@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">SOS</div>
                                     <div class="artist">Built By Titan</div>
-                                    <div class="played-at">Played at 23:59:47 on 10 Mar 2023</div>
+                                    <div class="played-at">Played at 00:08:28 on 11 Mar 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2023, 00:07:39 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 11 Mar 2023, 00:09:30 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
