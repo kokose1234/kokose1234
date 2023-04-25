@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Haven</div>
                                     <div class="artist">Car, the garden</div>
-                                    <div class="played-at">Played at 03:02:02 on 26 Apr 2023</div>
+                                    <div class="played-at">Played at 04:01:39 on 26 Apr 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2023, 03:03:02 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 Apr 2023, 04:02:26 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
