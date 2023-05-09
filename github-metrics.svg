@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Creep - Acoustic</div>
                                     <div class="artist">Radiohead</div>
-                                    <div class="played-at">Played at 15:25:28 on 9 May 2023</div>
+                                    <div class="played-at">Played at 16:08:20 on 9 May 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2023, 16:02:43 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 May 2023, 17:02:37 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
