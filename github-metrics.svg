@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Out Of My Mind</div>
                                     <div class="artist">Cloudsparty</div>
-                                    <div class="played-at">Played at 23:28:48 on 11 May 2023</div>
+                                    <div class="played-at">Played at 10:26:11 on 12 May 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -360,7 +360,7 @@
                                 <div class="infos">
                                     <div class="name">Glimmer (William Black Remix)</div>
                                     <div class="artist">LIONE</div>
-                                    <div class="played-at">Played at 23:24:40 on 11 May 2023</div>
+                                    <div class="played-at">Played at 10:19:47 on 12 May 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -368,7 +368,7 @@
                                 <div class="infos">
                                     <div class="name">Creep - Acoustic</div>
                                     <div class="artist">Radiohead</div>
-                                    <div class="played-at">Played at 23:20:56 on 11 May 2023</div>
+                                    <div class="played-at">Played at 10:16:01 on 12 May 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -376,7 +376,7 @@
                                 <div class="infos">
                                     <div class="name">Dog Days Are Over</div>
                                     <div class="artist">Florence + The Machine</div>
-                                    <div class="played-at">Played at 23:16:40 on 11 May 2023</div>
+                                    <div class="played-at">Played at 10:09:08 on 12 May 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2023, 09:05:48 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 10:28:46 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
