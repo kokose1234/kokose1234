@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">陽はまた昇るから</div>
                                     <div class="artist">Ryokuoushoku Shakai</div>
-                                    <div class="played-at">Played at 22:56:34 on 13 Jun 2023</div>
+                                    <div class="played-at">Played at 11:20:16 on 14 Jun 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2023, 10:30:35 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jun 2023, 11:23:30 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
