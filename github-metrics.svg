@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Harunohi</div>
                                     <div class="artist">Aimyon</div>
-                                    <div class="played-at">Played at 19:40:23 on 15 Jun 2023</div>
+                                    <div class="played-at">Played at 14:56:31 on 16 Jun 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -361,7 +361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2023, 14:02:30 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Jun 2023, 15:03:07 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
