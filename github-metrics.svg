@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Hold On</div>
                                     <div class="artist">Able Joseph</div>
-                                    <div class="played-at">Played at 01:00:39 on 20 Jun 2023</div>
+                                    <div class="played-at">Played at 19:51:07 on 20 Jun 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -360,7 +360,7 @@
                                 <div class="infos">
                                     <div class="name">Home Is Wherever You Are</div>
                                     <div class="artist">STARLYTE</div>
-                                    <div class="played-at">Played at 00:57:01 on 20 Jun 2023</div>
+                                    <div class="played-at">Played at 19:47:29 on 20 Jun 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -368,7 +368,7 @@
                                 <div class="infos">
                                     <div class="name">Everlasting Summer</div>
                                     <div class="artist">Seycara Orchestral</div>
-                                    <div class="played-at">Played at 00:53:29 on 20 Jun 2023</div>
+                                    <div class="played-at">Played at 19:43:57 on 20 Jun 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -376,7 +376,7 @@
                                 <div class="infos">
                                     <div class="name">Celestial</div>
                                     <div class="artist">CHVRT H!TS</div>
-                                    <div class="played-at">Played at 00:49:10 on 20 Jun 2023</div>
+                                    <div class="played-at">Played at 19:39:38 on 20 Jun 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2023, 19:02:58 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jun 2023, 20:02:29 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
