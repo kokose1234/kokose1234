@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Way Back When</div>
                                     <div class="artist">Gamma Skies</div>
-                                    <div class="played-at">Played at 20:50:19 on 9 Aug 2023</div>
+                                    <div class="played-at">Played at 21:37:35 on 9 Aug 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2023, 21:03:25 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Aug 2023, 22:05:04 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
