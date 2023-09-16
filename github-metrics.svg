@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">spiral</div>
                                     <div class="artist">LONGMAN</div>
-                                    <div class="played-at">Played at 16:30:22 on 15 Sept 2023</div>
+                                    <div class="played-at">Played at 14:01:24 on 16 Sept 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -361,7 +361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Sept 2023, 13:02:28 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Sept 2023, 14:02:47 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
