@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">Picture Perfect</div>
                                     <div class="artist">Pascal Michael Stiefel</div>
-                                    <div class="played-at">Played at 14:13:47 on 26 Nov 2023</div>
+                                    <div class="played-at">Played at 17:40:10 on 26 Nov 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -360,7 +360,7 @@
                                 <div class="infos">
                                     <div class="name">Picture Perfect (Remix) [feat. Carlos Eiene]</div>
                                     <div class="artist">Pascal Michael Stiefel</div>
-                                    <div class="played-at">Played at 14:07:23 on 26 Nov 2023</div>
+                                    <div class="played-at">Played at 17:09:16 on 26 Nov 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2023, 17:02:29 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 18:02:34 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
