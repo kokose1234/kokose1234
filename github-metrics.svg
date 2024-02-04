@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">A World of Your Own</div>
                                     <div class="artist">Timothée Chalamet</div>
-                                    <div class="played-at">Played at 02:02:06 on 5 Feb 2024</div>
+                                    <div class="played-at">Played at 02:20:24 on 5 Feb 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2024, 02:02:26 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2024, 03:02:31 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
