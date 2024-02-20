@@ -352,7 +352,7 @@
                                 <div class="infos">
                                     <div class="name">You've Never Had Chocolate Like This</div>
                                     <div class="artist">Timothée Chalamet</div>
-                                    <div class="played-at">Played at 04:59:38 on 21 Feb 2024</div>
+                                    <div class="played-at">Played at 05:43:05 on 21 Feb 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -385,7 +385,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2024, 05:02:33 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2024, 06:02:17 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
